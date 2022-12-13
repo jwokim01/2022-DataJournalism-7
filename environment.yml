@@ -3,5 +3,3 @@ dependencies:
   - numpy
   - pandas
   - plotly
-  - matplotlib.pyplot
-  - matplotlib
