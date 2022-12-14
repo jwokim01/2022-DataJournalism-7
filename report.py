@@ -267,7 +267,7 @@ st.markdown(
 )
 
 st.header("Ⅳ. 결론")
-img = Image.open('image/crowd.png')
+img = Image.open('image/국회.png')
 st.image(img)
 st.markdown(
 """
