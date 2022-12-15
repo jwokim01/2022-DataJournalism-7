@@ -302,9 +302,10 @@ if st.button("OPEN API 및 외부자료 출처"):
     ##### OPEN API 자료
     * 열린국회정보, <국회의원 인적사항>
     * 열린국회정보, <국회의원 발의법률안>
+    * 빅카인즈 가중치순 50개 단어, <https://www.bigkinds.or.kr/>
     
     ##### 이미지
-    * 국회 이미지자료실 : https://www.assembly.go.kr/cmmn/file/imageSrc.do?fileStreCours=829f7616fd59d611d6ee0bd750a47a6a&streFileNm=c4898d8acfe52e943d8691202e8e2fd5db110d2cdf90c86ad45263107332adc5
+    * 국회 이미지자료실 : <https://www.assembly.go.kr/cmmn/file/imageSrc.do?fileStreCours=829f7616fd59d611d6ee0bd750a47a6a&streFileNm=c4898d8acfe52e943d8691202e8e2fd5db110d2cdf90c86ad45263107332adc5>
 	""")
 
 if st.button("참고) 보수/진보 매체 주요 단어 네트워크"):
